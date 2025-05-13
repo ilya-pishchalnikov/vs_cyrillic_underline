@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
 
-namespace vs_cyrillic_underline_2022
+namespace vs_cyrillic_underline_2019
 {
     /// <summary>
     /// Classifier that classifies all text as an instance of the "EditorClassifierCyrillic" classification type.
@@ -17,7 +17,7 @@ namespace vs_cyrillic_underline_2022
         private readonly IClassificationType classificationType;
 
         /// <summary>
-        /// Initializes a new instance of the <see cref="EditorClassifierCyrillic"/> class.
+        /// Initializes a new instance of the <see cref="EditorClassifierCyrillic1"/> class.
         /// </summary>
         /// <param name="registry">Classification registry.</param>
         internal EditorClassifierCyrillic(IClassificationTypeRegistryService registry)

@@ -29,12 +29,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 270,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -67,7 +63,7 @@
               "RelativeDocumentMoniker": "vs_cyrillic_underline_2022\\EditorClassifierCyrillicFormat.cs",
               "ToolTip": "D:\\source\\vs_cyrillic_underline\\vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022\\EditorClassifierCyrillicFormat.cs",
               "RelativeToolTip": "vs_cyrillic_underline_2022\\EditorClassifierCyrillicFormat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T04:17:48.467Z",
               "EditorCaption": ""
