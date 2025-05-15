@@ -3,23 +3,35 @@
   "WorkspaceRootPath": "D:\\source\\vs_cyrillic_underline\\vs_cyrillic_underline_2022\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E798092-C3D5-49AA-A32C-332CCA2160BA}|vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022.csproj|d:\\source\\vs_cyrillic_underline\\vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022\\editorclassifiercyrillicformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E798092-C3D5-49AA-A32C-332CCA2160BA}|vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022.csproj|d:\\source\\vs_cyrillic_underline\\vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022\\editorclassifiercyrilliclatinformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E798092-C3D5-49AA-A32C-332CCA2160BA}|vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022.csproj|solutionrelative:vs_cyrillic_underline_2022\\editorclassifiercyrilliclatinformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E798092-C3D5-49AA-A32C-332CCA2160BA}|vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022.csproj|d:\\source\\vs_cyrillic_underline\\vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022\\editorclassifiercyrilliclatin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E798092-C3D5-49AA-A32C-332CCA2160BA}|vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022.csproj|solutionrelative:vs_cyrillic_underline_2022\\editorclassifiercyrilliclatin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E798092-C3D5-49AA-A32C-332CCA2160BA}|vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022.csproj|D:\\source\\vs_cyrillic_underline\\vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022\\editorclassifiercyrillicformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E798092-C3D5-49AA-A32C-332CCA2160BA}|vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022.csproj|solutionrelative:vs_cyrillic_underline_2022\\editorclassifiercyrillicformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\source\\ssms_highlighter\\ssms_highlighter\\EditorClassifierCyrillic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E798092-C3D5-49AA-A32C-332CCA2160BA}|vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022.csproj|d:\\source\\vs_cyrillic_underline\\vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022\\editorclassifiercyrilliclatinprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E798092-C3D5-49AA-A32C-332CCA2160BA}|vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022.csproj|solutionrelative:vs_cyrillic_underline_2022\\editorclassifiercyrilliclatinprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E798092-C3D5-49AA-A32C-332CCA2160BA}|vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022.csproj|d:\\source\\vs_cyrillic_underline\\vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022\\editorclassifiercyrillic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E798092-C3D5-49AA-A32C-332CCA2160BA}|vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022.csproj|solutionrelative:vs_cyrillic_underline_2022\\editorclassifiercyrillic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E798092-C3D5-49AA-A32C-332CCA2160BA}|vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022.csproj|D:\\source\\vs_cyrillic_underline\\vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022\\editorclassifiercyrillicprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E798092-C3D5-49AA-A32C-332CCA2160BA}|vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022.csproj|solutionrelative:vs_cyrillic_underline_2022\\editorclassifiercyrillicprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E798092-C3D5-49AA-A32C-332CCA2160BA}|vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022.csproj|D:\\source\\vs_cyrillic_underline\\vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022\\editorclassifiercyrillic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E798092-C3D5-49AA-A32C-332CCA2160BA}|vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022.csproj|solutionrelative:vs_cyrillic_underline_2022\\editorclassifiercyrillic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0E798092-C3D5-49AA-A32C-332CCA2160BA}|vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022.csproj|D:\\source\\vs_cyrillic_underline\\vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022\\editorclassifiercyrillicclassificationdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E798092-C3D5-49AA-A32C-332CCA2160BA}|vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022.csproj|solutionrelative:vs_cyrillic_underline_2022\\editorclassifiercyrillicclassificationdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\source\\ssms_highlighter\\ssms_highlighter\\EditorClassifierCyrillic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,23 +41,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 270,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditorClassifierCyrillicLatinFormat.cs",
+              "DocumentMoniker": "D:\\source\\vs_cyrillic_underline\\vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022\\EditorClassifierCyrillicLatinFormat.cs",
+              "RelativeDocumentMoniker": "vs_cyrillic_underline_2022\\EditorClassifierCyrillicLatinFormat.cs",
+              "ToolTip": "D:\\source\\vs_cyrillic_underline\\vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022\\EditorClassifierCyrillicLatinFormat.cs",
+              "RelativeToolTip": "vs_cyrillic_underline_2022\\EditorClassifierCyrillicLatinFormat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T03:27:04.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "EditorClassifierCyrillicLatinProvider.cs",
+              "DocumentMoniker": "D:\\source\\vs_cyrillic_underline\\vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022\\EditorClassifierCyrillicLatinProvider.cs",
+              "RelativeDocumentMoniker": "vs_cyrillic_underline_2022\\EditorClassifierCyrillicLatinProvider.cs",
+              "ToolTip": "D:\\source\\vs_cyrillic_underline\\vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022\\EditorClassifierCyrillicLatinProvider.cs",
+              "RelativeToolTip": "vs_cyrillic_underline_2022\\EditorClassifierCyrillicLatinProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T03:22:16.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditorClassifierCyrillicLatin.cs",
+              "DocumentMoniker": "D:\\source\\vs_cyrillic_underline\\vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022\\EditorClassifierCyrillicLatin.cs",
+              "RelativeDocumentMoniker": "vs_cyrillic_underline_2022\\EditorClassifierCyrillicLatin.cs",
+              "ToolTip": "D:\\source\\vs_cyrillic_underline\\vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022\\EditorClassifierCyrillicLatin.cs",
+              "RelativeToolTip": "vs_cyrillic_underline_2022\\EditorClassifierCyrillicLatin.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwEcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T03:22:15.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditorClassifierCyrillicFormat.cs",
+              "DocumentMoniker": "D:\\source\\vs_cyrillic_underline\\vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022\\EditorClassifierCyrillicFormat.cs",
+              "RelativeDocumentMoniker": "vs_cyrillic_underline_2022\\EditorClassifierCyrillicFormat.cs",
+              "ToolTip": "D:\\source\\vs_cyrillic_underline\\vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022\\EditorClassifierCyrillicFormat.cs",
+              "RelativeToolTip": "vs_cyrillic_underline_2022\\EditorClassifierCyrillicFormat.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T04:17:48.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "EditorClassifierCyrillic.cs",
               "DocumentMoniker": "D:\\source\\ssms_highlighter\\ssms_highlighter\\EditorClassifierCyrillic.cs",
               "RelativeDocumentMoniker": "..\\..\\ssms_highlighter\\ssms_highlighter\\EditorClassifierCyrillic.cs",
               "ToolTip": "D:\\source\\ssms_highlighter\\ssms_highlighter\\EditorClassifierCyrillic.cs",
               "RelativeToolTip": "..\\..\\ssms_highlighter\\ssms_highlighter\\EditorClassifierCyrillic.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABeAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAD4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T04:21:02.596Z"
+              "WhenOpened": "2025-05-13T04:21:02.596Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "EditorClassifierCyrillicClassificationDefinition.cs",
               "DocumentMoniker": "D:\\source\\vs_cyrillic_underline\\vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022\\EditorClassifierCyrillicClassificationDefinition.cs",
               "RelativeDocumentMoniker": "vs_cyrillic_underline_2022\\EditorClassifierCyrillicClassificationDefinition.cs",
@@ -57,20 +122,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EditorClassifierCyrillicFormat.cs",
-              "DocumentMoniker": "D:\\source\\vs_cyrillic_underline\\vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022\\EditorClassifierCyrillicFormat.cs",
-              "RelativeDocumentMoniker": "vs_cyrillic_underline_2022\\EditorClassifierCyrillicFormat.cs",
-              "ToolTip": "D:\\source\\vs_cyrillic_underline\\vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022\\EditorClassifierCyrillicFormat.cs",
-              "RelativeToolTip": "vs_cyrillic_underline_2022\\EditorClassifierCyrillicFormat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "EditorClassifierCyrillic.cs",
+              "DocumentMoniker": "D:\\source\\vs_cyrillic_underline\\vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022\\EditorClassifierCyrillic.cs",
+              "RelativeDocumentMoniker": "vs_cyrillic_underline_2022\\EditorClassifierCyrillic.cs",
+              "ToolTip": "D:\\source\\vs_cyrillic_underline\\vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022\\EditorClassifierCyrillic.cs",
+              "RelativeToolTip": "vs_cyrillic_underline_2022\\EditorClassifierCyrillic.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T04:17:48.467Z",
+              "WhenOpened": "2025-05-13T04:17:07.23Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "EditorClassifierCyrillicProvider.cs",
               "DocumentMoniker": "D:\\source\\vs_cyrillic_underline\\vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022\\EditorClassifierCyrillicProvider.cs",
               "RelativeDocumentMoniker": "vs_cyrillic_underline_2022\\EditorClassifierCyrillicProvider.cs",
@@ -79,18 +144,6 @@
               "ViewState": "AgIAAA0AAAAAAAAAAAAuwCMAAACHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T04:17:08.298Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EditorClassifierCyrillic.cs",
-              "DocumentMoniker": "D:\\source\\vs_cyrillic_underline\\vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022\\EditorClassifierCyrillic.cs",
-              "RelativeDocumentMoniker": "vs_cyrillic_underline_2022\\EditorClassifierCyrillic.cs",
-              "ToolTip": "D:\\source\\vs_cyrillic_underline\\vs_cyrillic_underline_2022\\vs_cyrillic_underline_2022\\EditorClassifierCyrillic.cs",
-              "RelativeToolTip": "vs_cyrillic_underline_2022\\EditorClassifierCyrillic.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T04:17:07.23Z"
             }
           ]
         }

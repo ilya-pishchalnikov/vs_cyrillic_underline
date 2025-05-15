@@ -48,6 +48,10 @@
     <Compile Include="EditorClassifierCyrillic.cs" />
     <Compile Include="EditorClassifierCyrillicClassificationDefinition.cs" />
     <Compile Include="EditorClassifierCyrillicFormat.cs" />
+    <Compile Include="EditorClassifierCyrillicLatin.cs" />
+    <Compile Include="EditorClassifierCyrillicLatinClassificationDefinition.cs" />
+    <Compile Include="EditorClassifierCyrillicLatinFormat.cs" />
+    <Compile Include="EditorClassifierCyrillicLatinProvider.cs" />
     <Compile Include="EditorClassifierCyrillicProvider.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="vs_cyrillic_underline_2022Package.cs" />
