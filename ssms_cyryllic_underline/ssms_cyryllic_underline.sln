@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.36101.20
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ssms_cyryllic_underline", "ssms_cyryllic_underline\ssms_cyryllic_underline.csproj", "{A2FA8D5E-DE6A-4405-AA4C-D3B7C6D56447}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2FA8D5E-DE6A-4405-AA4C-D3B7C6D56447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2FA8D5E-DE6A-4405-AA4C-D3B7C6D56447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2FA8D5E-DE6A-4405-AA4C-D3B7C6D56447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2FA8D5E-DE6A-4405-AA4C-D3B7C6D56447}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {365D975A-851A-42E0-9518-05D79A35F17C}
+	EndGlobalSection
+EndGlobal
